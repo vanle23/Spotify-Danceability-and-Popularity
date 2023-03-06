@@ -1,4 +1,3 @@
-# Spotify-Danceability-and-Popularity
 # Relationship Between Danceability and Number of Weeks on Chart
 
 # Introduction 
